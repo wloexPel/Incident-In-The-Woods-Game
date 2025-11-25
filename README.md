@@ -9,11 +9,9 @@ itch.io: https://wloexpel.itch.io/incidentinthewoods
 <img width="2560" height="1600" alt="image" src="https://github.com/user-attachments/assets/a52f4a2a-335e-4652-8910-9d1718dbcef0" />
 
 ### How to Play
-Open scene:
-Assets/Scenes/MainScene.unity
-Press space once or twice to avoid obstacles
-Try to beat your high score
-When game over — press Try Again button to start over
+- Press space once or twice to avoid obstacles
+- Try to beat your high score
+- When game is over press Try Again button to start over
 
 ### How to Open the Project
 1. Install Unity 2022.3.50f1
